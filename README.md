@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Analytics @MadeiraMadeira<br>👯 I’m looking to collaborate on data projects<br>🌱 I’m currently learning data science and data analytics<br>💬 Ask me about anything
+🔭 Data Analytics @I-cherry br>👯 I’m looking to collaborate on data projects<br>🌱 I’m currently learning data science and data analytics<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
